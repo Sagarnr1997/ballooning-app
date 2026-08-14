@@ -7,18 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1zkW5rXadFygYZtn5yeBXoLFtSAX9m9IL
 """
 
-pip install streamlit 
-
-pip install pymupdf 
-pip install opencv-python 
-
-pip install pillow 
-pip install numpy 
-pip install pandas
-
-pip install pytesseract
-
-pip install paddleocrb
 
 import fitz
 import re
