@@ -1,0 +1,12 @@
+PyMuPDF
+streamlit
+streamlit
+pymupdf
+opencv-python
+pillow
+numpy
+pandas
+pytesseract
+paddleocr
+ultralytics
+torch
