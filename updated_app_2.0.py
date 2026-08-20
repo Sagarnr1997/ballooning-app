@@ -28,7 +28,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": NULL,
+      "execution_count": None,
       "metadata": {
         "id": "Vc1i148XjI9Z"
       },
