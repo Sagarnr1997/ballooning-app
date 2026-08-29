@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import tempfile
 from pathlib import Path
@@ -1140,4 +1140,4 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-```
+
